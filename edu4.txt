@@ -1,3 +1,8 @@
 Branching
+<<<<<<< HEAD
 Modified version in branching.
+=======
+modified in first branch
+now the Right way.
+>>>>>>> firstbranch
 
