@@ -1,3 +1,4 @@
 Branching
 modified in first branch
+now the Right way.
 
